@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/VPodolnyy/VitePress-scmo-test/issues"
   },
-  "homepage": "https://github.com/VPodolnyy/VitePress-scmo-test#readme"
+  "homepage": "https://github.com/VPodolnyy/VitePress-scmo-test#readme",
+  "dependencies": {
+    "vitepress": "^1.0.0-alpha.4",
+    "vue": "^3.2.37"
+  }
 }
