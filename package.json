@@ -1,0 +1,19 @@
+{
+  "name": "vitepress-scmo-test",
+  "version": "1.0.0",
+  "description": "vitepress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VPodolnyy/VitePress-scmo-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VPodolnyy/VitePress-scmo-test/issues"
+  },
+  "homepage": "https://github.com/VPodolnyy/VitePress-scmo-test#readme"
+}
